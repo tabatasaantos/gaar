@@ -24,7 +24,7 @@ section .section-title {
 
 #team .card {
     border: none;
-    background: #eee;
+    background: #d6f5f5;
 }
 
 .image-flip:hover .backside,
@@ -118,5 +118,4 @@ section .section-title {
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    
 }

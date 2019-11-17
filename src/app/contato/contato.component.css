@@ -11,7 +11,10 @@ ul li:before {
     margin:0 5px 0 -15px;
     color:black;
 }
-
+.dropdownmenu ul, .dropdownmenu li {
+	margin: 10;
+	padding: 0;
+}
 /* .minhaMargem {
     margin-top: 20px;
 } */
